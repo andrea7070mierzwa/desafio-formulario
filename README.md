@@ -1,2 +1,21 @@
-# Desafio Formulário
- Desafio proposto pelo instrutor na aula 5 - Boas Práticas, SEO e Acessibilidade para a Web
+🚀 Desafio: Formulário de Contato Acessível Este projeto foi desenvolvido como parte do Desafio da Aula 5 do curso de Desenvolvimento Web. O foco principal foi aplicar boas práticas de HTML5, SEO e Acessibilidade.
+
+📝 Sobre o Projeto O objetivo foi criar um formulário de contato funcional para um sistema escolar/acadêmico, permitindo que professores ou interessados ​​enviem seus dados e disponibilidades.
+
+🛠️ Tecnologias Utilizadas HTML5: Estruturação semântica.
+
+Git & GitHub: Controle de versão e hospedagem.
+
+Linux Fedora: Ambiente de desenvolvimento.
+
+♿ Boas Práticas e Acessibilidade Aplicadas Tags Semânticas: Uso de
+
+, ,
+e para melhor leitura pelos buscadores.
+Relação Label-Input: Todos os campos possuem conectados aos seus associados, facilitando a navegação por leitores de tela e cliques em telas pequenas.
+
+Validação Nativa: Uso de atributos como obrigatório, type="email" e type="number" para garantir que os dados cheguem corretos.
+
+Organização: Código limpo e identificado para facilitar a manutenção.
+
+Desenvolvido com ☕ e dedicação por Andrea Mierzwa.
