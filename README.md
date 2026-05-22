@@ -1,21 +1,75 @@
-🚀 Desafio: Formulário de Contato Acessível Este projeto foi desenvolvido como parte do Desafio da Aula 5 do curso de Desenvolvimento Web. O foco principal foi aplicar boas práticas de HTML5, SEO e Acessibilidade.
+# Desafio Formulário de Contato 📝
 
-📝 Sobre o Projeto O objetivo foi criar um formulário de contato funcional para um sistema escolar/acadêmico, permitindo que professores ou interessados ​​enviem seus dados e disponibilidades.
+Projeto desenvolvido como desafio inicial durante a trilha de aprendizagem em HTML e CSS.
 
-🛠️ Tecnologias Utilizadas HTML5: Estruturação semântica.
+Este exercício foi proposto na aula sobre **boas práticas, SEO e acessibilidade para a Web**, com o objetivo de criar um formulário de contato simples utilizando estrutura HTML e estilização com CSS.
 
-Git & GitHub: Controle de versão e hospedagem.
+---
 
-Linux Fedora: Ambiente de desenvolvimento.
+## Sobre o projeto
 
-♿ Boas Práticas e Acessibilidade Aplicadas Tags Semânticas: Uso de
+O projeto consiste em uma página com um formulário de contato contendo campos básicos, como:
 
-, ,
-e para melhor leitura pelos buscadores.
-Relação Label-Input: Todos os campos possuem conectados aos seus associados, facilitando a navegação por leitores de tela e cliques em telas pequenas.
+- nome;
+- email;
+- idade;
+- matéria;
+- escolaridade;
+- disponibilidade;
+- mensagem.
 
-Validação Nativa: Uso de atributos como obrigatório, type="email" e type="number" para garantir que os dados cheguem corretos.
+A proposta principal foi praticar a criação de formulários em HTML, entendendo melhor a organização dos campos, tipos de entrada e estrutura básica de uma página web.
 
-Organização: Código limpo e identificado para facilitar a manutenção.
+---
 
-Desenvolvido com ☕ e dedicação por Andrea Mierzwa.
+## Objetivo
+
+Este projeto faz parte dos meus primeiros passos na programação web.
+
+Ele foi mantido de forma simples justamente por representar uma etapa inicial da aprendizagem, quando o foco era entender a base:
+
+- como estruturar um formulário;
+- como organizar campos;
+- como usar labels e inputs;
+- como aplicar CSS básico;
+- como publicar um exercício no GitHub Pages.
+
+---
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- GitHub Pages
+
+---
+
+## O que aprendi com este exercício
+
+Com este desafio, pratiquei:
+
+- criação de formulários;
+- uso de campos de texto, email e número;
+- uso de seleção de opções;
+- uso de checkboxes;
+- organização básica da página;
+- primeiros cuidados com estrutura e acessibilidade.
+
+Também aprendi que nem todo projeto precisa nascer bonito e completo. Alguns projetos existem para mostrar o início da caminhada — e este é um deles. 😄
+
+---
+
+## Status do projeto
+
+✅ Exercício concluído  
+📚 Projeto inicial de aprendizagem  
+🛠️ Mantido como registro da evolução
+
+---
+
+## Demonstração
+
+Acesse o projeto publicado pelo GitHub Pages:
+
+```txt
+https://andrea7070mierzwa.github.io/desafio-formulario/
